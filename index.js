@@ -10,3 +10,9 @@ const userName = (user) => {
     console.log(user)
 }
 userName('Muzammal')
+
+
+const cool = () => {
+    console.log('cool')
+}
+cool()
