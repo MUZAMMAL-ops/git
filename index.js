@@ -1,5 +1,5 @@
-const  uniqueName = (name) => {
-  console.log(name)
+const  uniqueName = (name1) => {
+  console.log(name1)
 }
 uniqueName(7)
 
