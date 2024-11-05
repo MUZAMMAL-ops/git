@@ -16,3 +16,8 @@ const cool = () => {
     console.log('cool')
 }
 cool()
+
+
+const newBranch = () => {
+  console.log(`This is new branch`)
+}
