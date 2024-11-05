@@ -6,8 +6,8 @@ uniqueName(7)
 
 
 
-const userName = (user) => {
-    console.log(user)
+const userName = (user1) => {
+    console.log(user1)
 }
 userName('Muzammal')
 
